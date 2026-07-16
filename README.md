@@ -12,7 +12,7 @@
   <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">📍 Vellore, Tamil Nadu, India</p>
+<p align="center">📍Delhi, India</p>
 
 ---
 
