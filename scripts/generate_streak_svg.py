@@ -9,6 +9,39 @@ USER = sys.argv[1] if len(sys.argv) > 1 else "AVIVASHISHTA29"
 OUT  = sys.argv[2] if len(sys.argv) > 2 else "streak.svg"
 
 def get_data(user):
+    # Try reading the locally scraped real-time data first
+    local_scraped = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "contributions.json")
+    if os.path.exists(local_scraped):
+        try:
+            with open(local_scraped, "r") as f:
+                scraped_data = json.load(f)
+            
+            # Map count to levels (0-4) matching GitHub
+            def get_level(c):
+                if c == 0: return 0
+                if c <= 3: return 1
+                if c <= 9: return 2
+                if c <= 19: return 3
+                return 4
+                
+            contribs = []
+            for d in scraped_data["days"]:
+                contribs.append({
+                    "date": d["date"],
+                    "count": d["count"],
+                    "level": get_level(d["count"])
+                })
+            
+            print("Successfully loaded real-time scraped contributions from data/contributions.json")
+            return {
+                "contributions": contribs,
+                "total": {
+                    "lastYear": scraped_data["total_contributions"]
+                }
+            }
+        except Exception as e:
+            print("Failed to read local contributions.json:", e)
+
     url = f"https://github-contributions-api.jogruber.de/v4/{user}?y=last"
     try:
         with urllib.request.urlopen(url, timeout=25) as r:
