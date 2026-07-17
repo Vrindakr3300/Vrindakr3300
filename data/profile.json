@@ -1,0 +1,22 @@
+{
+  "username": "Vrindakr3300",
+  "fullname": "Vrinda Kumar",
+  "host_title": "neofetch",
+  "info_card_rows": [
+    ["host"],
+    ["kv", "Now", "SDE Intern @ InterGlobe Technologies"],
+    ["kv", "Prev", "SDE Intern @ Dixon Technologies"],
+    ["kv", "Edu", "B.Tech Computer Science, VIT Vellore '26"],
+    ["gap"],
+    ["sec", "Stack"],
+    ["kv", "Languages", "Java, Python, SQL, JavaScript"],
+    ["kv", "AI & ML", "Generative AI, RAG, LLM APIs, Vector Search"],
+    ["kv", "Frameworks", "Spring Boot, Flask, FastAPI, Node.js"],
+    ["kv", "Tools/DB", "Docker, Git, ChromaDB, SQLite, PostgreSQL"],
+    ["gap"],
+    ["sec", "Highlights"],
+    ["bul", "Oracle Cloud Infrastructure Certified AI Associate"],
+    ["bul", "Contributed to ZamSync (GSSoC '26) Rust CLI"],
+    ["bul", "Research Paper in ICAICS '26 on Readmission Risk"]
+  ]
+}
