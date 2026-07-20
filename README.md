@@ -14,7 +14,7 @@
 
 **B.Tech Computer Science Student @ VIT Vellore · SDE Intern @ InterGlobe Technologies**
 
-[![Email](https://img.shields.io/badge/Email-vrindakr0504%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrindakr0504@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vrindakr5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrindakr5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vrinda_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrinda-kumar-57bb64255/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vrindakr3300-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrindakr3300)
 
