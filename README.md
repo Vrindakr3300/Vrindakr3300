@@ -12,7 +12,7 @@
 
 ## Vrinda Kumar
 
-**B.Tech Computer Science Graduate from VIT Vellore · SDE Intern @ InterGlobe Technologies Quotient**
+**B.Tech Computer Science Graduate from VIT Vellore · SDE Intern @ InterGlobe Technologies**
 
 [![Email](https://img.shields.io/badge/Email-vrindakr5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrindakr5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vrinda_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrinda-kumar-57bb64255/)
