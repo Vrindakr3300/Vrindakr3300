@@ -1,22 +1,22 @@
 {
   "username": "Vrindakr3300",
-  "generated_at": "2026-10-12T15:18:08Z",
+  "generated_at": "2026-10-14T11:48:02Z",
   "range": {
     "start": "2025-10-12",
-    "end": "2026-10-12"
+    "end": "2026-10-14"
   },
-  "total_contributions": 294,
-  "active_days": 121,
+  "total_contributions": 289,
+  "active_days": 122,
   "avg_per_active_day": 2.4,
   "current_streak": {
-    "length": 90,
-    "start": "2026-07-14",
-    "end": "2026-10-11"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
-    "length": 90,
+    "length": 91,
     "start": "2026-07-14",
-    "end": "2026-10-11"
+    "end": "2026-10-12"
   },
   "best_day": {
     "date": "2026-07-20",
@@ -65,15 +65,15 @@
     },
     {
       "month": "2026-08",
-      "total": 56
+      "total": 55
     },
     {
       "month": "2026-09",
-      "total": 42
+      "total": 37
     },
     {
       "month": "2026-10",
-      "total": 11
+      "total": 12
     }
   ],
   "days": [
@@ -1367,7 +1367,7 @@
     },
     {
       "date": "2026-08-30",
-      "count": 10
+      "count": 9
     },
     {
       "date": "2026-08-31",
@@ -1379,7 +1379,7 @@
     },
     {
       "date": "2026-09-02",
-      "count": 12
+      "count": 7
     },
     {
       "date": "2026-09-03",
@@ -1539,6 +1539,14 @@
     },
     {
       "date": "2026-10-12",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "count": 0
+    },
+    {
+      "date": "2026-10-14",
       "count": 0
     }
   ]
